@@ -1,0 +1,6 @@
+pop x = 15
+pop t = 6
+pop a = x - 5
+cik o in mij ( 9 ) -> tpi ( x )
+cik o in mij ( 1 , 6 ) -> tpi (  'x'  )
+cik o in mij ( 1 , 6 , 2 ) -> tpi ( 6 )
